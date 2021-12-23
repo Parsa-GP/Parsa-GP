@@ -7,12 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/parsa_gp" target="blank"><img src="https://img.shields.io/twitter/follow/parsa_gp?logo=twitter&style=for-the-badge" alt="parsa_gp" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, Python**
-
-- 📝 I regularly write articles on [msqlrecsapi.cf](msqlrecsapi.cf)
-
-- ⚡ Fun fact **I very dumb**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/parsa_gp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parsa_gp" height="30" width="40" /></a>
