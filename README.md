@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Parsa!</h1>
-<h3 align="center">A frontend developer from Iran</h3>
+<h3 align="center">A frontend/python developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsa-gp&label=Profile%20views&color=0e75b6&style=flat" alt="parsa-gp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parsa-gp" alt="parsa-gp" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/parsa_gp" target="blank"><img src="https://img.shields.io/twitter/follow/parsa_gp?logo=twitter&style=for-the-badge" alt="parsa_gp" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Kham3T0rsh" target="blank"><img src="https://img.shields.io/twitter/follow/Kham3T0rsh?logo=twitter&style=for-the-badge" alt="Kham3T0rsh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/parsa_gp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parsa_gp" height="30" width="40" /></a>
+<a href="https://twitter.com/Kham3T0rsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kham3T0rsh" height="30" width="40" /></a>
 <a href="https://instagram.com/_.parsagp._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parsa._.gp" height="30" width="40" /></a>
 </p>
 
