@@ -1,5 +1,5 @@
 # Hi 👋, I'm Parsa! <img src="https://komarev.com/ghpvc/?username=parsa-gp&label=Profile%20views&color=0e75b6&style=flat" alt="parsa-gp" />
-### A developer from Iran <img src="flag-of-iran-emoji-ios.png">
+### A developer from Iran <img src="flag-of-iran-emoji-ios.png" width="20" height="20" alt="Flag of Iran">
 
 <p align="left">
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
