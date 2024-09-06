@@ -1,13 +1,15 @@
-# Hi 👋, I'm Parsa! <img src="https://komarev.com/ghpvc/?username=parsa-gp&label=Profile%20views&color=0e75b6&style=flat" alt="parsa-gp" />
-### A developer from Iran <img src="flag-of-iran-emoji-ios.png" width="20" height="20" alt="Flag of Iran">
+# Hi 👋, I'm Parsa!
+A Web developer, Linux Enthusiast <sub>(arch btw)</sub> and anime enjoyer from Iran <img src="flag-of-iran-emoji-ios.png" width="20" height="20" alt="Flag of Iran">
 
-<p align="left">
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
+**Degree:** Student
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parsa-gp&" alt="parsa-gp" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parsa-gp&show_icons=true&locale=en&layout=compact" alt="parsa-gp" /></p>
+**Email:** psrzp1386@gmail.com
+**PGP Key:** 075499BE6CCF04E89CA13D8A337219A8ED9A4AED
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress,python,linux,sqlite)](https://skillicons.dev)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parsa-gp&theme=darcula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parsa-gp&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parsa-gp&theme=darcula)
+
+![visit counter!!](https://count.getloli.com/get/@parsa-gp)
