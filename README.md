@@ -1,6 +1,6 @@
 # Hi 👋, I'm Parsa!
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress,python,linux,sqlite)](https://skillicons.dev)\
-_A Student **Web developer**, **Linux Enthusiast** <sub>(arch btw)</sub> and **anime enjoyer** from Iran <img src="flag-of-iran-emoji-ios.png" width="20" height="20" alt="Flag of Iran">_
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress,python,linux,arch,sqlite,mysql,docker)](https://skillicons.dev)\
+_A Student **Web developer**, **Linux Enthusiast** <sub>(arch btw)</sub> and **anime enjoyer** from Iran <img src="flag-of-iran-emoji-ios.png" width="24" height="24" alt="Flag of Iran">_
 
 > **Email:** psrzp1386@gmail.com \
 > **PGP Key:** 075499BE6CCF04E89CA13D8A337219A8ED9A4AED
@@ -14,4 +14,5 @@ _A Student **Web developer**, **Linux Enthusiast** <sub>(arch btw)</sub> and **a
 
 
 ## Visit Counter
-![visit counter!!](https://count.getloli.com/get/@parsa-gp)
+![visit counter!!](https://count.getloli.com/get/@parsa-gp) \
+:3
